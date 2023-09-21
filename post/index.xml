@@ -6,55 +6,70 @@
     <description>Recent content in Projects on Paul Schumacher</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Jun 2023 11:15:58 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Sep 2023 14:48:04 -0400</lastBuildDate><atom:link href="https://paulkuhz.github.io/Data-Science-Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTML, CSS, JavaScript: Developing a Real Time Clock, a Random Password Generator, and a To-Do List</title>
+      <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/Clock+PasswordGenerator+ToDoList/</link>
+      <pubDate>Mon, 18 Sep 2023 14:48:04 -0400</pubDate>
+
+      <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/Clock+PasswordGenerator+ToDoList/</guid>
+      <description>I developed these three applications to strengthen my skillset in web design
+      using HyperText Markup Language (HTML), Cascading Style Sheets (CSS), and
+      JavaScript (JS). The clock displays the current Pacific Standard Time, while the
+      random password generator and the to-do list are integrated into the portfolio
+      using <i>CodePen</i>. I'm excited to showcase these projects as they represent my
+      commitment to creating practical and engaging web applications. Feel free to
+      explore and interact with them!</description>
+    </item>
+
     <item>
       <title>Two-Stage Least-Squares regression with Composition Adjustment: The China Shock and Regional Gender Pay Gaps in the United States</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/capstone/</link>
       <pubDate>Mon, 19 Jun 2023 11:15:58 -0400</pubDate>
-      
+
       <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/capstone/</guid>
       <description>This project served as my final thesis and capstone project for the Master of Quantitative Economics program at UCLA, submitted during the spring quarter of 2023. The project was under the supervision of Professor Jonathan Vogel. If you&amp;rsquo;re interested in reading the entire paper, you can download my thesis here.
 The project aimed to assess the impact of the rise in imported goods from the People&amp;rsquo;s Republic of China on the United States of America with a focus on their inherent gender pay gap.</description>
     </item>
-    
+
     <item>
       <title>Data Visualisation: The Change in Value of the Associate’s Degree after the 2007/2008 Financial Crisis</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/associates-degree/</link>
       <pubDate>Fri, 02 Jun 2023 11:25:05 -0400</pubDate>
-      
+
       <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/associates-degree/</guid>
       <description>This group project was conducted for the course on Income Inequality instructed by Professor Jonathan Vogel in the Master of Quantitative Economics program at UCLA. The corresponding presentation slide deck can be downloaded. We explored the question of how the share of people owning an Associate’s Degree and the wage differences compared to other degrees evolved after the Great Financial Crisis (GFC) of 2007/2008.
 The underlying theory, supported by empirical research, suggests that as the unemployment rate increases, college enrollment rates also tend to rise (Long, 2004b).</description>
     </item>
-    
+
     <item>
       <title>Image and Video Generation using Stable Diffusion</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/stablediffusion/</link>
       <pubDate>Wed, 12 Apr 2023 11:00:59 -0400</pubDate>
-      
+
       <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/stablediffusion/</guid>
       <description>This group project was a contribution to the Data Science Union. We viewed it as an exploratory journey into the field of image creation with &amp;lsquo;Dalleshop,&amp;rsquo; a word combining &amp;lsquo;Dall-e&amp;rsquo; and &amp;lsquo;Photoshop.&amp;rsquo; Our inspiration stemmed from the work of Omar Sanseviero and Santiago.
 The basic idea of picture creation is simple: you first give a model some noise, in other words, millions and millions of pictures, to generate an image through a neural network.</description>
     </item>
-    
+
     <item>
       <title>Random Forest in Machine Learning: Predict Match Winners in the German Soccer League Bundesliga</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/bundesligaprediction/</link>
       <pubDate>Tue, 14 Mar 2023 11:14:48 -0400</pubDate>
-      
+
       <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/bundesligaprediction/</guid>
       <description>In this project, which I undertook as part of the UCLA Data Science Union, I focused on predicting the outcome of the final matches of the 2022/2023 season in the German Soccer League Bundesliga. During the data collection phase, I gathered information from the FBRef website, covering a total of 24 out of the 34 matches that had been played up to that point. The aim of the project was to leverage data analysis and predictive modeling to anticipate the results of the remaining matches in the season&amp;rsquo;s final stage.</description>
     </item>
-    
+
     <item>
       <title>Natural Language Processing: Top2Vec, LDA, LSA</title>
       <link>https://paulkuhz.github.io/Data-Science-Portfolio/post/nlp/</link>
       <pubDate>Sun, 18 Dec 2022 11:13:32 -0400</pubDate>
-      
+
       <guid>https://paulkuhz.github.io/Data-Science-Portfolio/post/nlp/</guid>
       <description>This project highlights my involvement in the &amp;ldquo;Twitch Twits&amp;rdquo; program for the Data Science Union student association at UCLA. The dataset was meticulously collected from the Twitch API. By utilizing the &amp;ldquo;rTwitchAPI&amp;rdquo; package in the R programming language, I conducted web scraping to gather data pertaining to one of the most frequently featured games on the Twitch streaming platform: Alien Isolation.
 The dataset comprised 871 distinct streaming titles. Initially, I partitioned the data into separate train and test sets.</description>
     </item>
-    
+
   </channel>
 </rss>
